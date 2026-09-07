@@ -221,9 +221,8 @@ button:hover {
 
 
 ## OUTPUT
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img width="1448" height="837" alt="image" src="https://github.com/user-attachments/assets/9388789d-90d9-44a1-94ba-a1b29b737f58" />
+
 
 
 
